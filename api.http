@@ -1,0 +1,18 @@
+###
+### GET /clima?cep=01001000
+###
+
+GET http://localhost:8080/clima?cep=08111430
+
+
+###
+### GET /clima?cep=12345678
+###
+
+GET http://localhost:8080/clima?cep=12345678
+
+###
+### GET /clima?cep=abcdefgh
+###
+
+GET http://localhost:8080/clima?cep=1234567
